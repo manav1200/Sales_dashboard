@@ -6,6 +6,10 @@ Loads the Superstore CSV dataset into a local SQLite database
 Runs SQL-based analytics queries to extract KPIs and trends
 Displays results in an interactive Streamlit web app with Plotly charts
 Supports dynamic filtering by region, category, and year from the sidebar
+<img width="1888" height="911" alt="image" src="https://github.com/user-attachments/assets/cba31b16-9212-400b-80f2-0221d95888f2" />
+<img width="1907" height="761" alt="image" src="https://github.com/user-attachments/assets/f69b59e2-9347-43e4-afe3-b133f626d927" />
+<img width="1908" height="787" alt="image" src="https://github.com/user-attachments/assets/78bc7151-8271-4296-b374-73a5816575a5" />
+
 
 Project Structure
 app.py - Main Streamlit application; handles sidebar filters, KPI cards, and all chart visualizations
